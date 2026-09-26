@@ -46,6 +46,7 @@ music-streaming-api/
 │   ├── db/
 │   │   └── db.js
 │   ├── models/
+│   │   ├── album.model.js
 │   │   ├── music.model.js
 │   │   └── user.model.js
 │   ├── routes/
@@ -108,6 +109,9 @@ The API uses **JWT-based authentication** with cookies.
 - [x] Upload Music
 - [x] Music Upload to ImageKit Cloud Storage
 - [x] Store Music URL in MongoDB
+- [x] Create Album
+- [x] Get Album
+- [x] Get Music
 
 ### 🚧 Coming Soon
 
@@ -181,6 +185,9 @@ MongoDB
 - [x] Multer File Upload
 - [x] ImageKit Cloud Storage Integration
 - [x] Music URL Storage in MongoDB
+- [x] Create Album
+- [x] Get Album
+- [x] Get Music
 
 ### 🚧 Coming Soon
 
